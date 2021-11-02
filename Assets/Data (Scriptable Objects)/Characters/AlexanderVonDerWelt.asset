@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7158d0f199b0449b4450a20fd49c1e, type: 3}
+  m_Name: AlexanderVonDerWelt
+  m_EditorClassIdentifier: 
+  charIcon: {fileID: 21300000, guid: 86191b135454e86439d3e50b31146f83, type: 3}
+  charName: Alexander Von Der Welt
+  charDescription: An inquisitive traveller
+  armor: 50
+  health: 50
+  speed: 50
+  allegiance: 1
+  starterSkills:
+  - {fileID: 11400000, guid: d40c692fda57d3540b31482562f7c22a, type: 2}
+  - {fileID: 11400000, guid: 2feed124fa3672f4aa76acacf0fac21e, type: 2}
+  starterEquipment:
+  - {fileID: 11400000, guid: ab2da56add7f3ca4d9c371666f3fab75, type: 2}
+  - {fileID: 11400000, guid: 16ed9b1586c8abd46ad564d14df75d2d, type: 2}

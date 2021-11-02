@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7158d0f199b0449b4450a20fd49c1e, type: 3}
+  m_Name: Oskar
+  m_EditorClassIdentifier: 
+  charIcon: {fileID: 21300000, guid: 0022b925b9cfb34459399d9c02f3bd3a, type: 3}
+  charName: O'Ska
+  charDescription: Genteel elf
+  armor: 60
+  health: 70
+  speed: 80
+  allegiance: 1
+  starterSkills:
+  - {fileID: 11400000, guid: dbcf285430d6cdc4fa6a8be041484c03, type: 2}
+  - {fileID: 11400000, guid: bf8fa26ce4f6c654a9f7bdbdb1e00b0a, type: 2}
+  starterEquipment:
+  - {fileID: 11400000, guid: 3ec8d2c271072b4478feb46ca3b2c379, type: 2}

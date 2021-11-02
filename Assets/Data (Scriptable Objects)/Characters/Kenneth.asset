@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e7158d0f199b0449b4450a20fd49c1e, type: 3}
+  m_Name: Kenneth
+  m_EditorClassIdentifier: 
+  charIcon: {fileID: 21300000, guid: 96996bbec41d1b04a9eafdfbfd5cf2dc, type: 3}
+  charName: Kenneth
+  charDescription: Righteous man
+  armor: 100
+  health: 80
+  speed: 40
+  allegiance: 0
+  starterSkills:
+  - {fileID: 11400000, guid: 2875aeef55f4cd14e808cef21888ef4c, type: 2}
+  - {fileID: 11400000, guid: c411176ad7c649f40bd86d9f04f537cd, type: 2}
+  starterEquipment:
+  - {fileID: 11400000, guid: 1deb32757242ac04089d59de4f838d9b, type: 2}
+  - {fileID: 11400000, guid: 12878b80efa3ea84a8da08c16c60c3c1, type: 2}
